@@ -3,8 +3,10 @@ rencana konten wpu
 javascript
  ES6
  FRAMEWORK JAVASCRIPT
-   Angular
+   Vue
    React
+data structure
 php framework
    Laravel
 vlog
+python
