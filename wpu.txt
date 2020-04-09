@@ -2,3 +2,5 @@ wpu resolusi
 membuat content
 membuat platform pengelolaan video
 membuat forum diskusi
+membuat web program
+membuat mobile program
